@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Reuben Philip</h1>
-<h3 align="center">Currently a second-year Computer Science major at the University of California, Chico. Eager to apply my academic knowledge in real-world scenarios, I am actively seeking internships to gain practical experience and contribute to innovative projects. My enthusiasm for computer science drives my commitment to continuous learning and problem-solving.</h3>
+<h3 align="center">Currently a Third-year Computer Science major at the University of California, Chico. Eager to apply my academic knowledge in real-world scenarios, I am actively seeking internships to gain practical experience and contribute to innovative projects. My enthusiasm for computer science drives my commitment to continuous learning and problem-solving.</h3>
 
 - 🔭 I’m currently working on **Yacht-GPT**
 
-- 🌱 I’m currently learning **React, Django, Spring**
+- 🌱 I’m currently learning **React, MongoDB**
 
 - 📫 How to reach me **reubenaphilip@gmail.com**
 
